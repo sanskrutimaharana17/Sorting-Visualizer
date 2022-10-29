@@ -1,0 +1,29 @@
+h1{
+    color: rgb(234, 225, 225);
+}
+#button{
+background-color: aliceblue;
+color: black;
+}
+#Container{
+    height:200px;
+    display:flex;
+    align-items:flex-end;
+}
+body{
+    display:flex;
+    align-items:center;
+    flex-direction: column; 
+    background-color: black;
+}
+.bar{
+    width:10px;
+    background-color:rgb(247, 243, 243);
+    margin: 1px;
+}
+footer{
+    margin-top: 5ch;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
